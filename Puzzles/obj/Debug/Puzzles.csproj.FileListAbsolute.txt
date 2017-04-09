@@ -1,0 +1,28 @@
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.exe.config
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.exe
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.pdb
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.FormMain.resources
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.Properties.Resources.resources
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.csproj.GenerateResource.Cache
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.exe
+C:\Users\Elenka\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.pdb
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.exe.config
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.exe
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.pdb
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.exe
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\bin\Debug\Puzzles.pdb
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.FormMain.resources
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\Puzzles.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Google Диск\Tor\Тимчасове\Puzzles\Puzzles\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\bin\Debug\Puzzles.exe.config
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.exe
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.pdb
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\bin\Debug\Puzzles.exe
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\bin\Debug\Puzzles.pdb
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.csprojResolveAssemblyReference.cache
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.FormMain.resources
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.Properties.Resources.resources
+C:\Users\Elenka\Desktop\Puzzles\Puzzles\obj\Debug\Puzzles.csproj.GenerateResource.Cache
